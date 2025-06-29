@@ -1,0 +1,21 @@
+ICD_Label,Encoded_Value
+E10.9 - Type 1 Diabetes,0
+E11.9 - Type 2 Diabetes,1
+E78.5 - Hyperlipidemia,2
+F32.9 - Major Depressive Disorder,3
+F41.9 - Anxiety Disorder,4
+G40.909 - Epilepsy,5
+I10 - Hypertension,6
+I25.10 - CAD,7
+I48.91 - Atrial Fibrillation,8
+I63.9 - Stroke,9
+J18.9 - Pneumonia,10
+J44.9 - COPD,11
+J45.909 - Asthma,12
+K21.9 - GERD,13
+K64.9 - Hemorrhoids,14
+M54.5 - Low Back Pain,15
+N18.5 - CKD Stage V,16
+N39.0 - UTI,17
+R07.9 - Chest Pain,18
+R51 - Headache,19
